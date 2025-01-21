@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/drawable_background.jpg.flat",
+        "source": "com.example.juego_clases.app-main-33:/drawable/background.jpg"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/xml_backup_rules.xml.flat",
+        "source": "com.example.juego_clases.app-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-hdpi_cambiar.png.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-hdpi/cambiar.png"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.juego_clases.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/drawable_good1.png.flat",
+        "source": "com.example.juego_clases.app-main-33:/drawable/good1.png"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/drawable_boton_rojo.9.png.flat",
+        "source": "com.example.juego_clases.app-main-33:/drawable/boton_rojo.9.png"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-hdpi_arriba.png.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-hdpi/arriba.png"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.juego_clases.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/drawable_enemigo.png.flat",
+        "source": "com.example.juego_clases.app-main-33:/drawable/enemigo.png"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-hdpi_derecha.png.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-hdpi/derecha.png"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-hdpi_abajo.png.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-hdpi/abajo.png"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-hdpi_pausar.png.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-hdpi/pausar.png"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-hdpi_izquierda.png.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-hdpi/izquierda.png"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.juego_clases.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.juego_clases.app-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-hdpi_reanudar.png.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-hdpi/reanudar.png"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.juego_clases.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.juego_clases.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    }
+]
